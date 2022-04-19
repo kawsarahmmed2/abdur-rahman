@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Mountains Tours",
+        "price": "300",
+        "description": "Is mountaineering in your blood? Get a tour to Andes or Himalayas.",
+        "img": "https://ld-wp73.template-help.com/wordpress/prod_19731/v2/wp-content/uploads/2018/07/service-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Euro Tours",
+        "price": "800",
+        "description": "Are you a gourmet? Then you should definitely check out one of our food roots.",
+        "img": "https://ld-wp73.template-help.com/wordpress/prod_19731/v2/wp-content/uploads/2018/07/service-6.jpg "
+    },
+    {
+        "id": 3,
+        "name": "Sea tours",
+        "price": "1000",
+        "description": "Bath in any ocean thanks to the line of special exotic water tours.",
+        "img": "https://ld-wp73.template-help.com/wordpress/prod_19731/v2/wp-content/uploads/2018/07/service-3.jpg"
+    }
+]

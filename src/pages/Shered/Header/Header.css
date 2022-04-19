@@ -1,0 +1,12 @@
+.header-nav-img {
+  width: 162px;
+  height: 60px;
+}
+li a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: 500;
+  margin-left: 22px;
+}

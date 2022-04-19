@@ -1,0 +1,59 @@
+/* .background-img1 {
+  position: relative;
+  background-image: url(https://travo.iamabdus.com/v1.0/wp-content/uploads/2021/04/miriam-eh-RpbeFhCGwrM-unsplash-1.jpg);
+  background-size: cover;
+  z-index: -1;
+  width: 100%;
+  height: 740px;
+}
+.background-img2 {
+  position: relative;
+  background-size: cover;
+  z-index: -1;
+  height: 750px;
+  width: 100%;
+  background-image: url(../../../images/hero-bg-1.jpg);
+}
+.background-img3 {
+  position: relative;
+  background-size: cover;
+  z-index: -1;
+  height: 750px;
+  width: 100%;
+  background-image: url(https://travo.iamabdus.com/v1.0/wp-content/uploads/2021/03/tour-featured-img-17.jpg);
+}
+.background-img1::before,
+.background-img2::before,
+.background-img3::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  opacity: 0.5;
+  z-index: 1;
+}
+.arrow-icon {
+  width: 20px;
+}
+.header-button-tour {
+  color: #18c6cc;
+  background-color: #fff;
+  border-bottom: 7px solid #18c6cc;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 14px 30px;
+  transition: 0.3s;
+  margin-bottom: 70px;
+}
+.header-button-tour:hover {
+  color: #fff;
+  background-color: #18c6cc88;
+}
+.header-title h3 {
+  font-size: 60px;
+  font-weight: 700;
+} */

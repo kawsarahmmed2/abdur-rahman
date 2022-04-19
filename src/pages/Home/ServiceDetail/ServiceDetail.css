@@ -1,0 +1,25 @@
+.serviceDetail-img {
+  width: 100%;
+  height: 750px;
+}
+.serviceDetail-button {
+  padding: 15px 25px;
+  background-color: #18c6cc;
+  color: white;
+  border-bottom: 5px solid #1fd9e0ec;
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+.serviceDetail-button:hover {
+  text-decoration: underline;
+}
+.serviceDetail h4 {
+  font-size: 20px;
+  font-weight: 400;
+}
+.serviceDetail p {
+  font-weight: 400;
+  font-size: 16px;
+}

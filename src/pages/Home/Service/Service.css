@@ -1,0 +1,11 @@
+.service-button {
+  padding: 12px 25px;
+  background-color: #14acb1;
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
+.service-button:hover {
+  background-color: black;
+  color: #fff;
+}
